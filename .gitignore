@@ -1,0 +1,4 @@
+tsTest/node_modules
+tsTest/serverTs.js
+goTest/serverGo
+.idea
